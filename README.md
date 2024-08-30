@@ -1,16 +1,5 @@
 # quiriz
 
-A new Flutter project.
+Quiriz is a dynamic quiz-based learning platform designed to enhance knowledge acquisition and retention. It offers users an interactive way to create, share, and participate in quizzes on a wide range of topics. The app is ideal for both educational purposes and casual learning, providing a fun and engaging environment to test one's knowledge.
+This app is ideal for students, teachers, and anyone interested in learning through interactive quizzes. Whether for academic purposes or personal growth, users can benefit from the platform's engaging and educational environment.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
