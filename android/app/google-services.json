@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288260010139",
+    "project_id": "quiriz-85c55",
+    "storage_bucket": "quiriz-85c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288260010139:android:de5d8f310ffc4c0935163e",
+        "android_client_info": {
+          "package_name": "com.example.quiriz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrwS3HuKcciSgqIrLXGiCIyIzev2NWao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
